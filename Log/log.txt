@@ -1,0 +1,1240 @@
+14-11-2023, 00:03:14	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+14-11-2023, 00:03:14	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text:/start)	
+
+14-11-2023, 00:09:59	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+14-11-2023, 00:09:59	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+14-11-2023, 00:14:30	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+14-11-2023, 00:14:30	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+14-11-2023, 00:30:08	ERROR	Error Handler:	name 'e' is not defined	None	
+
+14-11-2023, 00:31:46	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:32:11	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:32:34	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:33:53	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:36:16	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:36:45	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:38:42	CRITICAL	Holiday Command:	Chat not found	None	
+
+14-11-2023, 00:46:09	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:46:30	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:46:58	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:47:18	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:47:37	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 00:47:53	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:47:53	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:47:53	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:53:30	WARNING	Start Command:	Registered User	Ayu(Atleast_perfect)  Already Exists	
+
+14-11-2023, 00:53:30	INFO	Start Command:	Sent user Private start message	To: Ayu(Atleast_perfect user_text: /start)	
+
+14-11-2023, 00:53:30	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 00:55:51	CRITICAL	Holiday Command:	object method can't be used in 'await' expression	None	
+
+14-11-2023, 00:57:42	CRITICAL	Holiday Command:	The message can't be forwarded	None	
+
+14-11-2023, 01:02:03	ERROR	Error Handler:	Chat not found	None	
+
+14-11-2023, 01:02:03	ERROR	Error Handler:	Chat not found	None	
+
+14-11-2023, 01:14:27	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+14-11-2023, 01:14:27	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+14-11-2023, 01:25:52	CRITICAL	UpdateHolidays Command:	replace expected at least 2 arguments, got 1	None	
+
+14-11-2023, 01:26:33	CRITICAL	UpdateHolidays Command:	json_parser() missing 1 required positional argument: 'value'	None	
+
+14-11-2023, 03:27:58	ERROR	Error Handler:	'list' object has no attribute 'lower'	None	
+
+14-11-2023, 03:33:21	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/127	
+
+14-11-2023, 03:33:21	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:33:21	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:33:21	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/1334	
+
+14-11-2023, 03:33:21	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:33:21	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:53:09	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/99	
+
+14-11-2023, 03:53:09	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:53:09	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 03:53:09	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/42	
+
+14-11-2023, 03:53:09	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:53:09	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:57:12	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/100	
+
+14-11-2023, 03:57:12	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+14-11-2023, 03:57:12	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+14-11-2023, 03:57:12	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/200	
+
+14-11-2023, 03:57:12	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+15-11-2023, 18:27:18	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+15-11-2023, 18:35:33	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+15-11-2023, 18:35:33	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+15-11-2023, 18:48:58	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+15-11-2023, 18:59:56	ERROR	Error Handler:	'NoneType' object has no attribute 'lower'	None	
+
+15-11-2023, 19:09:57	ERROR	Error Handler:	'NoneType' object has no attribute 'lower'	None	
+
+15-11-2023, 19:13:08	ERROR	Error Handler:	is_forwarded() missing 2 required positional arguments: 'forward_from' and 'forward_from_chat'	None	
+
+15-11-2023, 19:15:10	ERROR	Error Handler:	'NoneType' object is not callable	None	
+
+15-11-2023, 19:15:10	ERROR	Error Handler:	'User' object is not callable	None	
+
+15-11-2023, 19:19:27	ERROR	Error Handler:	'bool' object is not iterable	None	
+
+15-11-2023, 19:32:21	ERROR	Error Handler:	'bool' object is not iterable	None	
+
+16-11-2023, 19:59:25	ERROR	Error Handler:	'bool' object is not iterable	None	
+
+16-11-2023, 20:01:43	ERROR	Error Handler:	list index out of range	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:46:46	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 16:47:17	ERROR	Error Handler:	'ExtBot' object has no attribute 'get_message'	None	
+
+17-11-2023, 18:27:14	ERROR	Error Handler:	object method can't be used in 'await' expression	None	
+
+17-11-2023, 18:33:55	ERROR	Error Handler:	Message to forward not found	None	
+
+17-11-2023, 18:35:33	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+17-11-2023, 18:39:39	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+17-11-2023, 18:40:10	ERROR	Error Handler:	'NoneType' object has no attribute 'from_user'	None	
+
+17-11-2023, 18:40:46	ERROR	Error Handler:	name 'full_name' is not defined	None	
+
+17-11-2023, 18:50:41	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+17-11-2023, 19:09:06	ERROR	Error Handler:	cannot access local variable 'r' where it is not associated with a value	None	
+
+17-11-2023, 19:18:01	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+17-11-2023, 19:41:05	ERROR	Error Handler:	[Errno 2] No such file or directory: 'C:\\Users\\ElChapo\\Desktop\\Venv\\Python\\Telegram\\HabteMaryam26Bot\\Remake Neat\\Log/to_delete_ids_log.txt'	None	
+
+17-11-2023, 19:41:05	ERROR	Error Handler:	[Errno 2] No such file or directory: 'C:\\Users\\ElChapo\\Desktop\\Venv\\Python\\Telegram\\HabteMaryam26Bot\\Remake Neat\\Log/to_delete_ids_log.txt'	None	
+
+17-11-2023, 19:41:36	ERROR	Error Handler:	write() argument must be str, not int	None	
+
+17-11-2023, 19:56:22	ERROR	Error Handler:	'NoneType' object has no attribute 'split'	None	
+
+17-11-2023, 19:57:22	ERROR	Error Handler:	'list' object is not callable	None	
+
+17-11-2023, 19:58:34	ERROR	Error Handler:	can only concatenate list (not "str") to list	None	
+
+17-11-2023, 20:06:06	ERROR	Error Handler:	Message identifier is not specified	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:02:32	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:48:18	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 22:48:18	ERROR	Error Handler:	ExtBot.send_message() missing 1 required positional argument: 'text'	None	
+
+22-11-2023, 22:49:26	ERROR	Error Handler:	Timed out	None	
+
+22-11-2023, 22:49:26	ERROR	Error Handler:	Timed out	None	
+
+22-11-2023, 23:10:34	ERROR	Error Handler:	sequence item 3: expected str instance, int found	None	
+
+22-11-2023, 23:13:28	ERROR	Error Handler:	sequence item 3: expected str instance, int found	None	
+
+22-11-2023, 23:15:44	ERROR	Error Handler:	sequence item 3: expected str instance, int found	None	
+
+22-11-2023, 23:16:56	ERROR	Error Handler:	sequence item 3: expected str instance, int found	None	
+
+22-11-2023, 23:16:56	CRITICAL	ChangeMetaData Command:	Timed out	None	
+
+22-11-2023, 23:16:56	ERROR	Error Handler:	Unknown error in HTTP implementation: TypeError('Object of type TimedOut is not JSON serializable')	None	
+
+22-11-2023, 23:18:25	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 23:18:25	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 23:18:25	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+22-11-2023, 23:21:59	ERROR	Error Handler:	sequence item 3: expected str instance, int found	None	
+
+22-11-2023, 23:28:48	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+22-11-2023, 23:51:17	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+22-11-2023, 23:59:36	ERROR	Error Handler:	ExtBot.send_audio() got an unexpected keyword argument 'caption_html'	None	
+
+23-11-2023, 17:45:59	INFO	Start Command:	Registered User	P̸€Ń Đ𝑹ⒶĠØŅ✞︎✞︎👼(Pendragon11)	
+
+23-11-2023, 17:45:59	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+23-11-2023, 17:45:59	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+23-11-2023, 17:45:59	CRITICAL	ChangeMetaData Command:	There are no administrators in the private chat	None	
+
+23-11-2023, 17:45:59	ERROR	Error Handler:	Unknown error in HTTP implementation: TypeError('Object of type BadRequest is not JSON serializable')	None	
+
+23-11-2023, 17:57:12	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 17:57:12	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 17:57:12	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+23-11-2023, 17:57:12	INFO	Start Command:	Sent user Public start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start@habtemaryam26bot)	
+
+23-11-2023, 18:38:23	CRITICAL	Holiday Command:	[Errno 2] No such file or directory: 'messages.json'	None	
+
+23-11-2023, 19:00:08	CRITICAL	Holiday Command:	[Errno 2] No such file or directory: 'messages.json'	None	
+
+23-11-2023, 19:06:53	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+23-11-2023, 19:06:53	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/1334	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/1334	
+
+23-11-2023, 19:06:53	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 19:06:53	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 19:38:13	CRITICAL	Start Command:	cannot access local variable 'return_value' where it is not associated with a value	None	
+
+23-11-2023, 19:43:45	CRITICAL	Start Command:	cannot access local variable 'return_value' where it is not associated with a value	None	
+
+23-11-2023, 19:49:23	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 19:49:23	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 19:50:11	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+23-11-2023, 19:50:11	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 19:51:47	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 19:51:47	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 19:52:32	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 19:52:32	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 19:53:06	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 19:53:06	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 20:00:01	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+23-11-2023, 20:00:01	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 20:00:01	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+23-11-2023, 20:00:01	INFO	Start Command:	Sent user Public start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start@habtemaryam26bot)	
+
+23-11-2023, 20:00:01	INFO	Help Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 20:00:01	INFO	Help Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Public Chat	
+
+23-11-2023, 20:00:01	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 20:00:01	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+23-11-2023, 20:13:29	CRITICAL	Comment Command:	Message.reply_text() got an unexpected keyword argument 'request_location'	None	
+
+23-11-2023, 20:27:42	ERROR	Error Handler:	'NoneType' object has no attribute 'file_id'	None	
+
+23-11-2023, 20:30:07	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:31:00	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:31:00	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:32:15	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:34:30	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:37:44	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:37:44	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+23-11-2023, 20:48:43	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 20:48:43	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 20:48:43	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 20:49:54	ERROR	Error Handler:	object NoneType can't be used in 'await' expression	None	
+
+23-11-2023, 21:03:03	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:03:03	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:04:48	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:04:48	CRITICAL	Start Command:	'charmap' codec can't decode byte 0x9d in position 61: character maps to <undefined>	None	
+
+23-11-2023, 21:04:48	ERROR	Error Handler:	'charmap' codec can't decode byte 0x9d in position 61: character maps to <undefined>	None	
+
+23-11-2023, 21:05:20	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:05:20	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:05:52	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:05:52	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:06:06	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:06:06	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:06:36	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:06:36	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:06:48	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+23-11-2023, 21:06:48	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+23-11-2023, 21:36:15	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 12:43:41	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 12:43:41	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+24-11-2023, 12:43:41	INFO	Handle Message:	Successfully Sent message Anonimously	from ChatID: 5282771696	
+
+24-11-2023, 12:43:41	INFO	Handle Message:	Successfully Sent message Anonimously	from ChatID: -1001929011440	
+
+24-11-2023, 12:53:31	INFO	Handle Message:	Successfully Sent message Anonimously	from ChatID: -1001929011440	
+
+24-11-2023, 13:01:30	INFO	Help Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+24-11-2023, 13:01:30	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+24-11-2023, 13:01:30	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+24-11-2023, 13:01:30	INFO	Help Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+24-11-2023, 13:13:49	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 13:45:37	ERROR	Error Handler:	There are no administrators in the private chat	None	
+
+24-11-2023, 13:49:17	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 13:49:17	ERROR	Error Handler:	'NoneType' object is not iterable	None	
+
+24-11-2023, 13:52:03	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 13:52:03	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 13:52:03	ERROR	Error Handler:	cannot access local variable 'is_admin' where it is not associated with a value	None	
+
+24-11-2023, 14:01:17	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+24-11-2023, 14:15:07	INFO	Start Command:	Registered User	Ayu(Atleast_perfect)	
+
+24-11-2023, 14:15:07	INFO	Start Command:	Sent user Public start message	To: Ayu(Atleast_perfect user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 14:21:49	INFO	Start Command:	Sent user Group Policy	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /policy)	
+
+24-11-2023, 14:21:49	WARNING	Start Command:	Registered User	Suna(None)  Already Exists	
+
+24-11-2023, 14:21:49	INFO	Start Command:	Sent user Public start message	To: Suna(None user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 14:21:49	WARNING	Start Command:	Registered User	etsub(Nestititi)  Already Exists	
+
+24-11-2023, 14:21:49	INFO	Start Command:	Sent user Public start message	To: etsub(Nestititi user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 14:21:49	WARNING	Start Command:	Registered User	@19(None)  Already Exists	
+
+24-11-2023, 14:21:49	ERROR	Start Command:	Message to reply not found	None	
+
+24-11-2023, 14:21:49	WARNING	Start Command:	Registered User	@19(None)  Already Exists	
+
+24-11-2023, 14:21:49	ERROR	Start Command:	Message to reply not found	None	
+
+24-11-2023, 14:21:49	WARNING	Start Command:	Registered User	Kirkos Kirkos abte(lijmay)  Already Exists	
+
+24-11-2023, 14:21:49	INFO	Start Command:	Sent user Public start message	To: Kirkos Kirkos abte(lijmay user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 14:21:49	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 14:21:49	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 14:21:49	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 15:13:14	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+24-11-2023, 15:13:14	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+24-11-2023, 15:13:14	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 15:13:14	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+24-11-2023, 15:13:14	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+24-11-2023, 15:13:14	WARNING	Start Command:	Registered User	¥ęÁbšįřä(fikrte_slasie)  Already Exists	
+
+24-11-2023, 15:13:14	INFO	Start Command:	Sent user Public start message	To: ¥ęÁbšįřä(fikrte_slasie user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 15:13:14	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+24-11-2023, 15:54:55	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 15:56:01	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 15:56:15	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 15:57:06	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 15:59:11	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 15:59:11	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+24-11-2023, 15:59:11	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 16:01:07	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+24-11-2023, 16:01:07	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 16:01:07	CRITICAL	Holiday Command:	Message to forward not found	None	
+
+24-11-2023, 16:01:07	WARNING	Start Command:	Registered User	Efu(Enta_wadshalw)  Already Exists	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Public start message	To: Efu(Enta_wadshalw user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 16:01:07	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 16:01:07	INFO	Handle Message:	Successfully Sent message Anonimously	from ChatID: 804433914	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Registered User	Ayu(Atleast_perfect)	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Private start message	To: Ayu(Atleast_perfect user_text: /start)	
+
+24-11-2023, 16:01:07	CRITICAL	Ping Command:	Message to forward not found	None	
+
+24-11-2023, 16:01:07	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+24-11-2023, 16:01:07	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+24-11-2023, 16:01:07	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+24-11-2023, 16:01:07	INFO	UpdateHolidays Command:	Updated Holidays Message	Updated to https://t.me/habtemaryam26/1334	
+
+24-11-2023, 16:01:07	INFO	UpdateHolidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+24-11-2023, 16:01:07	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+24-11-2023, 16:01:07	WARNING	Start Command:	Registered User	@sadgirl....😉(Mahiloveley)  Already Exists	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Public start message	To: @sadgirl....😉(Mahiloveley user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 16:01:07	WARNING	Start Command:	Registered User	Yared(yared_12)  Already Exists	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Public start message	To: Yared(yared_12 user_text: /start@habtemaryam26bot)	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Registered User	@li Soli(soliyanaMulugeta)	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Private start message	To: @li Soli(soliyanaMulugeta user_text: /start)	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Registered User	Yared(yared_12)	
+
+24-11-2023, 16:01:07	INFO	Start Command:	Sent user Private start message	To: Yared(yared_12 user_text: /start)	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	Couldn't find any admins	Timed out	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	Couldn't find any admins	httpx.ConnectError: [Errno 11001] getaddrinfo failed	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	Couldn't find any admins	httpx.ConnectError: [Errno 11001] getaddrinfo failed	
+
+24-11-2023, 16:01:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+24-11-2023, 16:01:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 16:01:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 16:01:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+24-11-2023, 16:01:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	WARNING	Start Command:	Registered User	@li Soli(soliyanaMulugeta)  Already Exists	
+
+25-11-2023, 20:08:07	INFO	Start Command:	Sent user Private start message	To: @li Soli(soliyanaMulugeta user_text: /start)	
+
+25-11-2023, 20:08:07	INFO	Holidays Command:	Sent Message to@li Soli(soliyanaMulugeta)	For Private Chat	
+
+25-11-2023, 20:08:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-11-2023, 20:08:07	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-11-2023, 20:08:07	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	Timed out	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	Timed out	None	
+
+25-11-2023, 20:08:07	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+25-11-2023, 20:08:07	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+25-11-2023, 20:08:07	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+26-11-2023, 12:08:21	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+26-11-2023, 12:08:21	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+26-11-2023, 12:08:21	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+26-11-2023, 12:08:21	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+26-11-2023, 12:08:21	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+26-11-2023, 12:08:21	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+26-11-2023, 12:08:21	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+26-11-2023, 12:08:21	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+01-12-2023, 22:17:23	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+01-12-2023, 22:17:23	INFO	Start Command:	Registered User	Ď`Ą የእናቱ ልጅ☺(DA121922)	
+
+01-12-2023, 22:17:23	WARNING	Start Command:	Registered User	Ď`Ą የእናቱ ልጅ☺(DA121922)  Already Exists	
+
+01-12-2023, 22:17:23	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+01-12-2023, 22:17:23	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+01-12-2023, 22:17:23	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+01-12-2023, 22:17:23	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+03-12-2023, 18:34:28	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+03-12-2023, 18:34:28	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+03-12-2023, 18:34:28	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+03-12-2023, 18:34:28	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+03-12-2023, 18:34:28	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+03-12-2023, 18:34:28	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+03-12-2023, 18:34:28	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+03-12-2023, 18:34:28	ERROR	Error Handler:	'NoneType' object has no attribute 'tag'	None	
+
+03-12-2023, 18:34:28	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+04-12-2023, 20:41:45	INFO	Start Command:	Registered User	Bemniwa(None)	
+
+04-12-2023, 20:41:45	WARNING	Start Command:	Registered User	Bemniwa(None)  Already Exists	
+
+04-12-2023, 20:41:45	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+04-12-2023, 20:41:45	INFO	Start Command:	Registered User	Ashe 12(AShe19)	
+
+04-12-2023, 20:41:45	INFO	Start Command:	Sent user Private start message	To: Ashe 12(AShe19 user_text: /start)	
+
+04-12-2023, 20:41:45	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+04-12-2023, 20:41:45	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	INFO	Start Command:	Registered User	BERTMEYOS(BERTMEYOS)	
+
+08-12-2023, 23:19:13	INFO	Start Command:	Sent user Private start message	To: BERTMEYOS(BERTMEYOS user_text: /start)	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+08-12-2023, 23:19:13	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 18 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 18 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 18 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 18 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 17 seconds	
+
+08-12-2023, 23:19:13	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 17 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 17 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 16 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 16 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 16 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 16 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 14 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 14 seconds	
+
+08-12-2023, 23:19:13	WARNING	Handle Message:	Couldn't find any admins	Flood control exceeded. Retry in 14 seconds	
+
+08-12-2023, 23:19:13	INFO	Start Command:	Registered User	Sarina(None)	
+
+08-12-2023, 23:20:37	WARNING	Start Command:	Registered User	Sarina(None)  Already Exists	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	Kali Kali yemaryam(None)	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	ኤልሮኢ 272727(Elroie21121927)	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	🥀🥀🥀(eyerusalemk)	
+
+08-12-2023, 23:20:37	WARNING	Start Command:	Registered User	Kali Kali yemaryam(None)  Already Exists	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	Travel(smhaer)	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	Selame(Selame4339)	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Registered User	Ňardĩ😝..😎😎(Nardi_11)	
+
+08-12-2023, 23:20:37	INFO	Start Command:	Sent user Private start message	To: Ňardĩ😝..😎😎(Nardi_11 user_text: /start)	
+
+08-12-2023, 23:20:37	INFO	Help Command:	Sent Message to Sarina(None)	For Private Chat	
+
+08-12-2023, 23:20:37	WARNING	Start Command:	Registered User	Travel(smhaer)  Already Exists	
+
+08-12-2023, 23:20:37	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+08-12-2023, 23:20:37	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:20:37	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+08-12-2023, 23:20:37	INFO	Holidays Command:	Sent Message toŇardĩ😝..😎😎(Nardi_11)	For Private Chat	
+
+08-12-2023, 23:20:37	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 13:19:20	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 13:19:20	INFO	Start Command:	Registered User	MY mom is my life(yonityesehaylij)	
+
+09-12-2023, 13:19:20	INFO	Start Command:	Sent user Private start message	To: MY mom is my life(yonityesehaylij user_text: /start)	
+
+09-12-2023, 13:19:20	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+09-12-2023, 13:19:20	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+09-12-2023, 13:19:20	WARNING	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)  Already Exists	
+
+09-12-2023, 13:19:20	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+09-12-2023, 13:33:47	INFO	Start Command:	Registered User	𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	
+
+09-12-2023, 13:33:47	INFO	Start Command:	Sent user Private start message	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /start)	
+
+09-12-2023, 13:33:47	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 18:36:00	INFO	Start Command:	Registered User	Papio(Papio12)	
+
+09-12-2023, 18:36:00	INFO	Start Command:	Sent user Private start message	To: Papio(Papio12 user_text: /start)	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:36:00	ERROR	Error Handler:	Timed out	None	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:36:00	ERROR	Error Handler:	Timed out	None	
+
+09-12-2023, 18:36:00	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+09-12-2023, 18:36:00	INFO	UpdateHolidays Command:	Updated the Holiday Message	Updated By: Elchapo_ET	
+
+09-12-2023, 18:36:00	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:36:00	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+09-12-2023, 18:36:00	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:36:00	ERROR	Error Handler:	Timed out	None	
+
+09-12-2023, 18:58:11	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 18:58:11	ERROR	Error Handler:	Timed out	None	
+
+09-12-2023, 18:58:11	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 18:58:11	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 22:29:03	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	KING(Mikael121221)	
+
+09-12-2023, 22:29:03	WARNING	Handle Message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	🦋𝑚𝑦 𝑙𝑖𝑓𝑒 🦋🦜(Tednyan10)	
+
+09-12-2023, 22:29:03	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+09-12-2023, 22:29:03	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+09-12-2023, 22:29:03	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	Canzi(Footnalisima)	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	medi(Mediii12)	
+
+09-12-2023, 22:29:03	WARNING	Start Command:	Registered User	medi(Mediii12)  Already Exists	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	Àrsemä(AluQueen6)	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	ⓣⓘⓝⓤ እሙ(yodi_emu)	
+
+09-12-2023, 22:29:03	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+09-12-2023, 22:29:03	INFO	Start Command:	Registered User	Soliy@n@ ፯(se12217)	
+
+09-12-2023, 22:29:03	INFO	Help Command:	Sent Message to Soliy@n@ ፯(se12217)	For Private Chat	
+
+09-12-2023, 22:29:03	INFO	Holidays Command:	Sent Message toSoliy@n@ ፯(se12217)	For Private Chat	
+
+12-12-2023, 15:24:42	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+12-12-2023, 15:24:42	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 15:24:42	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+12-12-2023, 15:24:42	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+12-12-2023, 15:24:42	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+12-12-2023, 17:53:30	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+12-12-2023, 17:53:30	ERROR	Error Handler:	Timed out	None	
+
+12-12-2023, 17:53:30	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 17:53:30	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:10:40	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:12:33	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:15:05	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+12-12-2023, 18:16:51	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:19:50	ERROR	Error Handler:	'NoneType' object has no attribute 'from_user'	None	
+
+12-12-2023, 18:21:03	ERROR	Error Handler:	'NoneType' object has no attribute 'from_user'	None	
+
+12-12-2023, 18:21:03	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:22:34	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+12-12-2023, 18:22:34	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+12-12-2023, 18:22:34	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+12-12-2023, 18:22:34	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+18-12-2023, 20:04:27	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+18-12-2023, 20:04:27	ERROR	Error Handler:	Timed out	None	
+
+18-12-2023, 20:04:27	ERROR	Error Handler:	httpx.ConnectError: [Errno 11001] getaddrinfo failed	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+20-12-2023, 12:40:08	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+20-12-2023, 12:40:08	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 12:40:08	INFO	Holidays Command:	Sent Message to𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET)	For Private Chat	
+
+20-12-2023, 12:40:08	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 12:40:08	ERROR	Error Handler:	'NoneType' object has no attribute 'artist'	None	
+
+20-12-2023, 12:54:05	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 12:54:05	ERROR	Error Handler:	'NoneType' object has no attribute 'artist'	None	
+
+20-12-2023, 13:02:58	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 13:02:58	ERROR	Error Handler:	Timed out	None	
+
+20-12-2023, 13:02:58	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 13:02:58	ERROR	Error Handler:	Timed out	None	
+
+20-12-2023, 13:02:58	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+20-12-2023, 13:50:55	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 13:50:55	ERROR	Error Handler:	Timed out	None	
+
+20-12-2023, 14:10:54	WARNING	handle_all_message:	Couldn't find any admins	There are no administrators in the private chat	
+
+20-12-2023, 14:10:54	ERROR	Error Handler:	Timed out	None	
+
+20-12-2023, 14:10:54	ERROR	Error Handler:	cannot access local variable 'administrators' where it is not associated with a value	None	
+
+20-12-2023, 14:10:54	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+20-12-2023, 14:10:54	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+20-12-2023, 14:10:54	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	INFO	Holidays Command:	Sent Message to@19(citizens1894)	For Private Chat	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-12-2023, 00:44:24	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 00:44:24	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+25-12-2023, 00:44:24	WARNING	handle_all_message:	Couldn't find any admins	Timed out	
+
+25-12-2023, 00:44:24	ERROR	Error Handler:	Timed out	None	
+
+25-12-2023, 00:57:38	CRITICAL	About Command:	Unknown error in HTTP implementation: TypeError('Object of type coroutine is not JSON serializable')	None	
+
+25-12-2023, 01:00:27	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 01:00:27	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 01:01:52	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+25-12-2023, 01:01:52	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 01:01:52	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+25-12-2023, 01:04:31	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 21 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'text'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 20 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 19 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 18 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 17 seconds	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 16 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	Couldn't find any admins	Flood control exceeded. Retry in 15 seconds	
+
+26-12-2023, 22:43:46	WARNING	handle_all_message:	'NoneType' object has no attribute 'file_id'	No File ID	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	ERROR	Error Handler:	'NoneType' object has no attribute 'caption'	None	
+
+26-12-2023, 22:43:46	INFO	Start Command:	Sent user Group Policy	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /policy)	
+
+26-12-2023, 22:47:36	INFO	Start Command:	Sent user Group Policy	To: 𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖇𝖏𝖊𝖈𝖙(Elchapo_ET user_text: /policy)	
+
